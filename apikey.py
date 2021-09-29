@@ -1,4 +1,12 @@
-consumer_key="tt6PXmyMweCf7IccLwk2xoA9X"
-consumer_secret="Rln1dSEF5BsEWJh59kDimq8CvP9N0vEcxLghdOaIVHact7c6vu"
-access_token="1155450398813184000-3TE5VkM0jLHHzAMI1elYS3MsNe4eGn"
-access_token_secret="gHHrCsrjpCJZDCGHSSY53i4PjhiKuImW5xTIkSk5N2vOl"
+# -*- coding: utf-8 -*-
+# FACEBOOK 
+TOKEN_USER_FB_SECRET = "Your user token"
+FB_USERNAME = "Your username from FB"
+FB_PASSWORD = "Your password from FB"
+# TWITTER
+TW_CONSUMER_KEY = "Twitter consumer key"
+TW_CONSUMER_SECRET = "Twitter consumer secret"
+TW_ACCESS_KEY = "Twitter access key"
+TW_ACCESS_SECRET = "Twitter access secret"
+TW_USERNAME = "Your username from Twitter"
+TW_PASSWORD = "Your password from Twitter"
